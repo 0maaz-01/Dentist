@@ -1,0 +1,34 @@
+/* Hide the native cursor */
+body {
+    cursor: none;
+  }
+  
+  /* Outer cursor wrapper */
+  .custom-cursor {
+    position: fixed;
+    pointer-events: none;
+    z-index: 10000;
+    transform: translate(-50%, -50%);
+  }
+  
+  /* Frame around the stick */
+  .stick-frame {
+    width: 40px;
+    height: 100px;
+    border: 4px solid #5a3e1b; /* dark wood-like border */
+    background-color: #e0c097;  /* light wood background */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    border-radius: 8px;
+  }
+  
+  /* Wooden stick inside the frame */
+  .wooden-stick {
+    width: 6px;
+    height: 80%;
+    background-color: #8b5c2c; /* wooden color */
+    border-radius: 3px;
+  }
+  
