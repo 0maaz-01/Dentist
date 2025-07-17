@@ -9,7 +9,7 @@ import Patients from "./sections/Patients";
 import ClinicIntro from "./sections/ClinicIntro";
 import Office from "./sections/Office";
 import Location from "./sections/Location";
-import LocationText from "./sections/LocationUp";
+import LocationUp from "./sections/LocationUp";
 import Map from "./sections/Map";
 import SingleSevice from "./sections/SingleSevice"
 import Smile from "./sections/Smile";
@@ -22,7 +22,6 @@ import Testimonials2 from "./sections/Testimonials2";
 import FullScreenSlider from "./components/FullScreenSlider";
 import FullScreenVideoSlider from "./components/FullScreenVideoSlider";
 import BeforeAfterGallery from "./sections/BeforeAfterGallery";
-import GlassDemo from "./components/GlassDemo";
 
 
 
@@ -71,7 +70,7 @@ const LocationPage = () => (
    <>
       <Navbar   page = "Location"/>
       <Location/>
-      <LocationText/>
+      <LocationUp/>
       <Map/>
       <BookNow/>
       <Footer/>
