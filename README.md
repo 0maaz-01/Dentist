@@ -13,8 +13,8 @@ It includes:
 
 * A visually rich **landing page**
 * In-depth **doctor and clinic introductions**
-* A **service directory** with pricing and detail for the service pages
-* A **case study gallery** with interactive comparison
+* A **service section** with pricing and detail for the service pages
+* A **case study gallery** with an interactive comparison of the result.
 * A secure **contact form**
 * A **location section** with business hours and image-based map
 
