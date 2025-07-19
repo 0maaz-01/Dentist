@@ -1,4 +1,4 @@
-# 🦷 DentalCare Agency – Portfolio & Service Platform
+# 🦷 DentalCare Agency Portfolio
 
 A **comprehensive, full-stack web application** built for a **dental agency**, designed to serve as both a professional **portfolio** and a **patient engagement tool**. This website highlights the clinic's **services**, showcases **patient success stories**, provides essential **FAQs**, and offers multiple ways for potential clients to **connect and interact** with the dentists.
 
@@ -140,22 +140,7 @@ cd frontend && npm install
 cd ../backend && npm install
 ```
 
-### 3. Setup `.env` Files
 
-#### 📁 Frontend (`frontend/.env`)
-
-```env
-VITE_API_URL=http://localhost:5000
-```
-
-#### 📁 Backend (`backend/.env`)
-
-```env
-PORT=5000
-MONGO_URI=your_mongodb_uri
-EMAIL_USER=your_email@example.com
-EMAIL_PASS=your_email_password
-```
 
 ### 4. Run Development Servers
 
@@ -193,8 +178,10 @@ Have an idea to improve the platform? PRs are welcome!
 
 MIT License
 
-```
-Copyright (c) 2025 
+Copyright (c) 2025 Mohammed Maaz Rayeen
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software...
-```
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
