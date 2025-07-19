@@ -1,5 +1,5 @@
 
-# 🦷 DentalCare Agency Portfolio 
+# 🦷 DentalCare Agency Portfolio - [Live Link](https://dentist-vid.vercel.app/)
 
 A **fully responsive website** developed for a **dental agency**, designed to serve as a **digital portfolio**, **informational hub**, and **patient outreach tool**. This platform introduces prospective patients to the clinic's services, showcases successful case studies, and offers interactive features like before-and-after sliders, testimonials, and easy ways to contact or locate the clinic.
 
@@ -19,41 +19,14 @@ It includes:
 * A **location section** with business hours and image-based map
 
 ---
-## Screenshots & Demo 📸
+## 💻 Responsive Design
 
-### 💻 Desktop View
+The entire application is **mobile-first** and tested on:
 
-<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/A.jpg" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/B.jpg" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/C.jpg" alt="Thumbnail" width="320" height="180">
+* 📱 Mobile Devices
+* 💻 Laptops & Desktops
+* 🖥️ Large Screens (TV or Monitor Displays)
 
- <br></br>
-
-<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/D.jpg" alt="Thumbnail" width="320" height="180">    <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/E.jpg" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/F.jpg" alt="Thumbnail" width="320" height="180">
-
- <br></br>
-
-<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/G.jpg" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/H.jpg" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/I.jpg" alt="Thumbnail" width="320" height="180">
-
- <br></br>
-
-<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/J.jpg" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/K.jpg" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/L.jpg" alt="Thumbnail" width="320" height="180">
-
- <br></br>
-
-<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/M.jpg" alt="Thumbnail" width="320" height="180">
-
-  
-### 📱 Mobile View
-
-<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/QM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/PM.jpg" alt="Thumbnail" width="220" height="500">  <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/DM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/NM.jpg" alt="Thumbnail" width="220" height="500">
-
-<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/CM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/JM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/HM.jpg" alt="Thumbnail" width="220" height="500"> 
- <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/AM.jpg" alt="Thumbnail" width="220" height="500"> 
-
-<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/GM.jpg" alt="Thumbnail" width="220" height="500">  <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/FM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/EM.jpg" alt="Thumbnail" width="220" height="500">
-<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/MM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/KM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/BM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/IM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/LM.jpg" alt="Thumbnail" width="220" height="500">
-
-<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/OM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/RM.jpg" alt="Thumbnail" width="220" height="500">
----
 ---
 
 ## 🧱 Website Structure
@@ -144,6 +117,43 @@ Helps patients plan their visit with clarity:
 
 ---
 
+
+## Screenshots & Demo 📸
+
+### 💻 Desktop View
+
+<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/A.jpg" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/B.jpg" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/C.jpg" alt="Thumbnail" width="320" height="180">
+
+ <br></br>
+
+<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/D.jpg" alt="Thumbnail" width="320" height="180">    <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/E.jpg" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/F.jpg" alt="Thumbnail" width="320" height="180">
+
+ <br></br>
+
+<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/G.jpg" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/H.jpg" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/I.jpg" alt="Thumbnail" width="320" height="180">
+
+ <br></br>
+
+<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/J.jpg" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/K.jpg" alt="Thumbnail" width="320" height="180"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/L.jpg" alt="Thumbnail" width="320" height="180">
+
+ <br></br>
+
+<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/M.jpg" alt="Thumbnail" width="320" height="180">
+
+  
+### 📱 Mobile View
+
+<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/QM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/PM.jpg" alt="Thumbnail" width="220" height="500">  <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/DM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/NM.jpg" alt="Thumbnail" width="220" height="500">
+
+<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/CM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/JM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/HM.jpg" alt="Thumbnail" width="220" height="500"> 
+ <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/AM.jpg" alt="Thumbnail" width="220" height="500"> 
+
+<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/GM.jpg" alt="Thumbnail" width="220" height="500">  <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/FM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/EM.jpg" alt="Thumbnail" width="220" height="500">
+<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/MM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/KM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/BM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/IM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/LM.jpg" alt="Thumbnail" width="220" height="500">
+
+<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/OM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/RM.jpg" alt="Thumbnail" width="220" height="500">
+---
+
 ## 🛠 Technologies Used
 
 ![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind)
@@ -157,27 +167,6 @@ Helps patients plan their visit with clarity:
 | **CSS**                  | For designing and styling the HTML structure and layout.          |
 | **Framer Motion**        | Used to create smooth UI animations and transitions. |
 | **GSAP**         | For scroll-based and timeline animations.                       |
-
----
-
-## 💻 Responsive Design
-
-The entire application is **mobile-first** and tested on:
-
-* 📱 Mobile Devices
-* 💻 Laptops & Desktops
-* 🖥️ Large Screens (TV or Monitor Displays)
-
----
-
-## 📸 Visual Highlights (Insert your screenshots here)
-
-* 🎥 Landing Page with Clinic Video
-* 🧑‍⚕️ Doctor Introduction
-* 🦷 Services Page
-* 🖼️ Case Studies with Slider
-* 📍 Location Section (with static map)
-* 📧 Contact Form
 
 ---
 
@@ -204,7 +193,7 @@ npm run dev
 npm start
 ```
 
-Access your app at:
+Access your webapp at:
 👉 [http://localhost:5173](http://localhost:5173)
 
 ---
