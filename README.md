@@ -1,6 +1,6 @@
 # 🦷 DentalCare Agency Portfolio
 
-A **comprehensive, full-stack web application** built for a **dental agency**, designed to serve as both a professional **portfolio** and a **patient engagement tool**. This website highlights the clinic's **services**, showcases **patient success stories**, provides essential **FAQs**, and offers multiple ways for potential clients to **connect and interact** with the dentists.
+A **frontend web application** built for a **dental agency**, designed to serve as both a professional **portfolio** and a **patient engagement tool**. This website highlights the clinic's **services**, showcases **patient success stories**, provides essential **FAQs**, and offers multiple ways for potential clients to **connect and interact** with the dentists.
 
 ---
 
