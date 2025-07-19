@@ -7,13 +7,13 @@ A **fully responsive website** developed for a **dental agency**, designed to se
 
 ## 💡 Project Overview
 
-The website not only **builds trust and credibility** for the dental agency but also enhances their **online presence** with modern UI/UX and useful functionality.
+The website **builds trust and credibility** for the dental agency and also enhances their **online presence** with modern design.
 
 It includes:
 
 * A visually rich **landing page**
 * In-depth **doctor and clinic introductions**
-* A **service directory** with pricing and detail pages
+* A **service directory** with pricing and detail for the service pages
 * A **case study gallery** with interactive comparison
 * A secure **contact form**
 * A **location section** with business hours and image-based map
@@ -33,10 +33,10 @@ The entire application is **mobile-first** and tested on:
 
 ### 1️⃣ **Landing Page**
 
-A welcoming and visually engaging home page designed to give users a comprehensive first impression:
+A welcoming and visually engaging home page designed to give users a comprehensive first impression :
 
 * 🎥 **Video Section**
-  Embedded promotional or walkthrough videos of the dental clinic
+  Embedded walkthrough videos of the dental clinic
 
 * 🧠 **Doctor’s Mindset Section**
   A few lines on the clinic’s philosophy, treatment ethics, and care approach
@@ -54,7 +54,7 @@ A welcoming and visually engaging home page designed to give users a comprehensi
   Highlights of feedback and patient satisfaction stories
 
 * 🏢 **Office Showcase**
-  A photo section to show the clinic interiors and equipment
+  A sliding photo section to show the clinic interiors and equipment
 
 ---
 
@@ -63,7 +63,7 @@ A welcoming and visually engaging home page designed to give users a comprehensi
 A deeper look into the clinic’s history and team:
 
 * 🧑‍⚕️ **Doctor’s Biography**
-  A detailed introduction to the lead dentist, credentials, and experience
+  A detailed introduction to the lead dentist.
 
 * 🖼️ **Office Photo Gallery**
   Images showcasing different parts of the clinic for a personal touch
@@ -75,7 +75,7 @@ A deeper look into the clinic’s history and team:
 An organized list of **all services** offered by the clinic:
 
 * 📝 Service cards with title and preview
-* 🔗 Clicking a service navigates to a **detailed explanation page**
+* 🔗 Clicking **Learn More** on service navigates to a **detailed explanation page** for that service.
   (includes procedure steps, eligibility, pricing, and benefits)
 
 ---
@@ -90,9 +90,6 @@ This page builds **trust through transparency**, showcasing real transformations
 * 🖼️ **Before & After Sliders**
   Interactive image sliders allow users to visually compare results
 
-* 💬 **Patient Testimonials**
-  Each case includes a direct quote or review from the treated patient
-
 ---
 
 ### 5️⃣ **Contact Page**
@@ -101,7 +98,7 @@ An interactive way for users to reach out:
 
 * 📧 Contact form with name, email, message fields
 * 📞 Optional: Phone number and email displayed for direct communication
-* 🔐 All messages are routed securely (via backend email service)
+* 🔐 All messages are routed securely (via email service)
 
 ---
 
@@ -113,7 +110,7 @@ Helps patients plan their visit with clarity:
   Clearly displayed working days and times
 
 * 🗺️ **Location Map**
-  An **image-based map** (not API-based) showing clinic placement and landmarks
+  An **image-based map** (not API-based, api was used in the main project) showing clinic placement and landmarks.
 
 ---
 
