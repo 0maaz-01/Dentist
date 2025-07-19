@@ -43,32 +43,18 @@ It includes:
 
   
 ### 📱 Mobile View
-<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/UM.jpg" alt="Thumbnail" width="220" height="500">  <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/BM.jpg" alt="Thumbnail" width="220" height="500">
-<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/CM.jpg" alt="Thumbnail" width="220" height="500">
- <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/DM.jpg" alt="Thumbnail" width="220" height="500">
- <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/EM.jpg" alt="Thumbnail" width="220" height="500">
- <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/FM.jpg" alt="Thumbnail" width="220" height="500">
- <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/GM.jpg" alt="Thumbnail" width="220" height="500">
- <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/HM.jpg" alt="Thumbnail" width="220" height="500">
- <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/IM.jpg" alt="Thumbnail" width="220" height="500">
- <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/JM.jpg" alt="Thumbnail" width="220" height="500">
- <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/KM.jpg" alt="Thumbnail" width="220" height="500">
- <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/LM.jpg" alt="Thumbnail" width="220" height="500">
- <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/MM.jpg" alt="Thumbnail" width="220" height="500">
- <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/NM.jpg" alt="Thumbnail" width="220" height="500">
- <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/OM.jpg" alt="Thumbnail" width="220" height="500">
- <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/PM.jpg" alt="Thumbnail" width="220" height="500">
- <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/QM.jpg" alt="Thumbnail" width="220" height="500">
- <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/RM.jpg" alt="Thumbnail" width="220" height="500">
- <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/SM.jpg" alt="Thumbnail" width="220" height="500">
-  <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/WM.jpg" alt="Thumbnail" width="220" height="500">
-<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/VM.jpg" alt="Thumbnail" width="220" height="500"> 
-<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/AM.jpg" alt="Thumbnail" width="220" height="500"> 
- <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/TM.jpg" alt="Thumbnail" width="220" height="500">
 
+<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/QM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/PM.jpg" alt="Thumbnail" width="220" height="500">  <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/DM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/NM.jpg" alt="Thumbnail" width="220" height="500">
+
+<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/CM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/JM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/HM.jpg" alt="Thumbnail" width="220" height="500"> 
+ <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/AM.jpg" alt="Thumbnail" width="220" height="500"> 
+
+<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/GM.jpg" alt="Thumbnail" width="220" height="500">  <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/FM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/EM.jpg" alt="Thumbnail" width="220" height="500">
+<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/MM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/KM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/BM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/IM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/LM.jpg" alt="Thumbnail" width="220" height="500">
+
+<img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/OM.jpg" alt="Thumbnail" width="220" height="500"> <img src="https://github.com/0maaz-01/Dentist/blob/main/public/Readme/RM.jpg" alt="Thumbnail" width="220" height="500">
 ---
 ---
-
 
 ## 🧱 Website Structure
 
