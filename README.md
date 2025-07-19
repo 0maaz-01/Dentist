@@ -1,7 +1,7 @@
 
 # 🦷 DentalCare Agency Portfolio 
 
-A **full-featured, responsive website** developed for a **modern dental agency**, designed to serve as a **digital portfolio**, **informational hub**, and **patient outreach tool**. This platform introduces prospective patients to the clinic's services, showcases successful case studies, and offers interactive features like before-and-after sliders, testimonials, and easy ways to contact or locate the clinic.
+A **fully responsive website** developed for a **dental agency**, designed to serve as a **digital portfolio**, **informational hub**, and **patient outreach tool**. This platform introduces prospective patients to the clinic's services, showcases successful case studies, and offers interactive features like before-and-after sliders, testimonials, and easy ways to contact or locate the clinic.
 
 ---
 
@@ -146,16 +146,17 @@ Helps patients plan their visit with clarity:
 
 ## 🛠 Technologies Used
 
+![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind)
+
 | Technology               | Purpose                                          |
 | ------------------------ | ------------------------------------------------ |
-| **React.js**             | Frontend development and dynamic routing         |
-| **Tailwind CSS**         | Component-based styling and responsive layouts   |
-| **Node.js**              | Backend environment                              |
-| **Express.js**           | Server-side logic and contact form API           |
-| **MongoDB**              | Storing contact form submissions                 |
-| **Framer Motion**        | Smooth UI animations (page transitions, sliders) |
-| **React Router**         | Navigation between pages                         |
-| **EmailJS / Nodemailer** | Sending email submissions from the contact form  |
+| **React.js**             | For building dynamic, component-based UIs and handling client-side routing.   |
+| **Javascript**             |  For adding interactivity and logic to the frontend.       |
+| **Tailwind CSS**         |  For building modern, responsive, and customizable layouts with ease.   |
+| **HTML**                 | Used to structure the content and elements of the web pages.                             |
+| **CSS**                  | For designing and styling the HTML structure and layout.          |
+| **Framer Motion**        | Used to create smooth UI animations and transitions. |
+| **GSAP**         | For scroll-based and timeline animations.                       |
 
 ---
 
@@ -180,15 +181,14 @@ The entire application is **mobile-first** and tested on:
 
 ---
 
-## 🚀 Local Development Setup
+## 🚀 Installation Guide
 
-To run the project locally:
+To run the project locally, follow these steps:
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/dentalcare-website.git
-```
+1. Fork this repository.
+2. Open this main folder in the terminal.
+3. Run `npm install` command on the terminal.
+4. Run `npm run dev` on the terminal.
 
 ### 4. Run Both Servers
 
