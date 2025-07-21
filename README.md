@@ -1,5 +1,4 @@
-
-# 🦷 DentalCare Agency Portfolio - [Live Link](https://dentist-vid.vercel.app/)
+ # 🦷 DentalCare Agency Portfolio - [Live Link](https://dentist-vid.vercel.app/)
 
 A **fully responsive website** developed for a **dental agency**, designed to serve as a **digital portfolio**, **informational hub**, and **patient outreach tool**. This platform introduces prospective patients to the clinic's services, showcases successful case studies, and offers interactive features like before-and-after sliders, testimonials, and easy ways to contact or locate the clinic.
 
